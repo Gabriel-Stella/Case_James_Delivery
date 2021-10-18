@@ -16,8 +16,11 @@ de que sejam apresentadas pelo menos as seguintes conclusões:
 
 ● Uma segmentação dos países dos clientes da AliPaga, por valor de venda, e representatividade
 dos clusters dentro do faturamento da mesma;
+
 ● Uma previsão de vendas para o próximo período mensal;
+
 ● Qual o impacto do shipping cost e do discount sobre as vendas?
+
 ● Para aumentar as vendas, em qual você recomendaria investir?
 
 
