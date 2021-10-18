@@ -36,4 +36,4 @@ No arquivo ``Dashboard_James_Delivery.pbix`` encontra-se um relatório visual da
 
 A apresentação do case se encontra no arquivo ``Relatório_de_Vendas_AliPaga.pptx`` do PowerPoint.
 
-Os dados base estão no arquivo ``superstore_dataset2011-2015.csv``.
+Os dados base estão no arquivo ``superstore_dataset2011-2015.csv``, os dados preprocessados para a regressão estão em ``superstore_dataset2011-2015_regression_model.csv`` e os dados com a adição dos dados de segmentação estão em ``superstore_dataset2011-2015_Segmented.csv``.
