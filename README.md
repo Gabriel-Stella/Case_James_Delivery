@@ -27,3 +27,13 @@ dos clusters dentro do faturamento da mesma;
 Além disso, qualquer análise relevante de tendências, segmentação etc., que venha a ser feita para que a
 diretoria possa manter as altíssimas taxas de crescimento da AliPaga, será considerada para sua análise
 de desempenho e ajudará a queimar a Amazonense no mercado.
+
+## Arquivos e Apresentações
+
+O arquivo principal de códigos utilizados se encontram em ``estudo_de_caso_james_delivery.ipynb``.
+
+No arquivo ``Dashboard_James_Delivery.pbix`` encontra-se um relatório visual da segmentação do Power BI Desktop.
+
+A apresentação do case se encontra no arquivo ``Relatório_de_Vendas_AliPaga.pptx`` do PowerPoint.
+
+Os dados base estão no arquivo ``superstore_dataset2011-2015.csv``.
